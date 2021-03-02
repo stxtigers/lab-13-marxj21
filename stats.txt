@@ -1,0 +1,4 @@
+
+mean is :5.55
+median is :2.0
+stDev is :0.0
